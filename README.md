@@ -1,4 +1,4 @@
-ieake
+﻿ieake
 =====
 
-my wordpress theme
+我的 wordpress 主题
